@@ -1,4 +1,4 @@
-# DATA
+# DATA web scraping
 import requests
 from wsgiref import headers
 query = input("enter a name thta u want to crawl")
